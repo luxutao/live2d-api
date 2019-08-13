@@ -1,0 +1,21 @@
+{
+	"type": "Live2D Model Setting",
+	"model": "model.moc",
+	"textures": [
+		"textures/default-hat.png"
+	],
+	"motions":{
+		"idle":[
+			{"file":"motions/Idle.mtn","fade_in":2000,"fade_out":2000}
+		],
+        "sleepy":[
+            {"file":"motions/Nemui.mtn","fade_in":2000,"fade_out":2000}
+        ],
+		"flick_head":[
+			{"file":"motions/Anone_Synced.mtn","fade_in":150,"fade_out":100}
+		],
+		"tap_body":[
+			{"file":"motions/Dance.mtn","fade_in":150,"fade_out":100}
+		]
+	}
+}
